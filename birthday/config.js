@@ -2,7 +2,7 @@ var config = {
   
     texts: [
         "Happy Birthday",     
-        "PANDA",  
+        "Name",  
         "I",
         "HOPE",
         "ALL YOUR",
